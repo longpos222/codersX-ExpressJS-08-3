@@ -1,4 +1,4 @@
-# codersX-ExpressJS-08-2
+# codersX-ExpressJS-08-3
 ### BÀI 3
 Bạn chợt nhận ra là giả sử bây giờ có một người đến thuê, làm thế nào để biết ai đang thuê cuốn nào? Bạn cần phải có thêm 1 collection chứa các transaction của việc thuê sách. Mỗi object trong collection này sẽ chứa: userId, bookId, tất nhiên chúng sẽ có 1 property id riêng của mình.
 1) Update lại file db json của bạn
